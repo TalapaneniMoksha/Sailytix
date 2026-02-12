@@ -27,7 +27,7 @@ function App() {
       <Team />
       <Contact />
       <footer className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white text-center text-sm py-6">
-        © 2025 WebThrive. Made with ❤️ by the team.
+        © 2025 Sailytix. Made with ❤️ by the team.
       </footer>
     </div>
   );
